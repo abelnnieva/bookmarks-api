@@ -1,6 +1,6 @@
-# Bookmarks API
+# bookmarks-api
 
-A bookmarks API from scratch using NestJS, Docker, Postgres, Passport.js, Prisma, Pactum and DotEnv.
+Sample project for a bookmarks API using NestJS 10, Docker, PostgreSQL, Passport.js, Prisma, Pactum, and DotEnv.
 
 ## Run the API in development mode
 
